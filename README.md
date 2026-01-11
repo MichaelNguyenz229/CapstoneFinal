@@ -1,4 +1,4 @@
-# Predicting Human Cognitive Performance - Final Capstone Project
+# Predicting Human Cognitive Performance - Capstone Project
 
 **Author:** Michael Viet Nguyen  
 **Program:** Berkeley Haas Machine Learning & AI Professional Certificate  
