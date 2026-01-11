@@ -211,8 +211,7 @@ Module 24 Final Submission
 ## Acknowledgments
 
 - **Dataset**: Samharison (Kaggle) - "Human Cognitive Performance Analysis: Lifestyle & AI Predictions"
-- **Program**: Berkeley Haas School of Business
-- **Instructor/Program Leader**: [Program Leader Name]
+- **Program**: UC Berkeley's Professional Certificate in Machine Learning and Artificial Intelligence
 
 ---
 
