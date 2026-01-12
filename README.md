@@ -2,7 +2,7 @@
 ## Final Capstone Project
 
 **Author:** Michael Viet Nguyen  
-**Berkeley Haas Machine Learning & AI Professional Certificate**  
+**Berkeley Machine Learning & AI Professional Certificate**  
 **Date:** January 2026
 
 ---
@@ -437,13 +437,12 @@ Most importantly, these findings are immediately actionable. Every individual an
 ## Contact
 
 **Michael Viet Nguyen**  
-Berkeley Haas Machine Learning & AI Professional Certificate Program  
-Capstone Project - Module 24
+UC Berkeley Machine Learning & AI Professional Certificate Program  
+Capstone Project
 
 ---
 
 ## Acknowledgments
 
 - **Dataset:** Samharison (Kaggle) - "Human Cognitive Performance Analysis: Lifestyle & AI Predictions"
-- **Program:** Berkeley Haas School of Business Machine Learning & AI Certificate
-- **Guidance:** [Program Leader Name]
+- **Program:** UC Berkeley Machine Learning & AI Certificate
