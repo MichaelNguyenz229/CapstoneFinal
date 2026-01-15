@@ -139,7 +139,8 @@ Analysis revealed:
 ## Technical Details
 
 **Repository Contents:**
-- `Capstone_Final_Notebook.ipynb` - Complete technical analysis with code and methodology
+- [Link to notebook](https://github.com/MichaelNguyenz229/BerkeleyMLAICert/blob/main/capstoneEDA%20(3).ipynb)
+- [Capstone_Final_Notebook.ipynb](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/Capstone_Final_Notebook.ipynb) - Complete technical analysis with code and methodology
 - `README.md` - This non-technical report
 - `human_cognitive_performance.csv` - Source dataset
 
