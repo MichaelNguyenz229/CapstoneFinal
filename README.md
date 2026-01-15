@@ -139,8 +139,9 @@ Analysis revealed:
 ## Technical Details
 
 **Repository Contents:**
+- [capstoneEDA.ipynb](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/capstoneEDA.ipynb) - Initial Report and Exploratory Data Analysis (EDA)
 - [Capstone_Final_Notebook.ipynb](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/Capstone_Final_Notebook.ipynb) - Complete technical analysis with code and methodology
-- `README.md` - This non-technical report
+- README.md - This non-technical report
 - [human_cognitive_performance.csv](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/human_cognitive_performance.csv) - Source dataset
 
 **Required Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
