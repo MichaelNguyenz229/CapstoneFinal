@@ -2,6 +2,7 @@
 
 **Michael Viet Nguyen**  
 Berkeley Machine Learning & AI Professional Certificate 
+
 January 2026
 
 ---
