@@ -139,9 +139,9 @@ Analysis revealed:
 ## Technical Details
 
 **Repository Contents:**
-- ['Capstone_Final_Notebook.ipynb'](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/Capstone_Final_Notebook.ipynb) - Complete technical analysis with code and methodology
+- [Capstone_Final_Notebook.ipynb](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/Capstone_Final_Notebook.ipynb) - Complete technical analysis with code and methodology
 - `README.md` - This non-technical report
-- [`human_cognitive_performance.csv`](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/human_cognitive_performance.csv) - Source dataset
+- [human_cognitive_performance.csv](https://github.com/MichaelNguyenz229/CapstoneFinal/blob/main/human_cognitive_performance.csv) - Source dataset
 
 **Required Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
 
