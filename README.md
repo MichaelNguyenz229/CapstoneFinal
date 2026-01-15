@@ -12,7 +12,7 @@ January 2026
 
 **Key Finding:** Screen time management (20.6% feature importance), stress reduction (19.7%), and exercise promotion (19.5%) are the highest-impact intervention targets. Gender-specific and diet-specific programs show minimal predictive value (<1% importance each).
 
-**Methodology Achievement:** Properly identified and excluded features that computed the target variable (avoiding data leakage), achieving R² = 0.17-0.18 across multiple models. Investigation revealed excluded features explain 80% of variance but show zero correlation with lifestyle (r < 0.02), validating the exclusion decision.
+**Methodology Achievement:** Properly identified and excluded features that computed the target variable (avoiding data leakage), achieving R² = 0.17-0.18 across multiple models. *Note: R² measures how much of the variation in cognitive scores our model can explain - 0.18 means 18%, which is appropriate for this type of analysis.* Investigation revealed excluded features explain 80% of variance but show zero correlation with lifestyle (r < 0.02), validating the exclusion decision.
 
 **Business Value:** Organizations can allocate wellness resources efficiently by prioritizing high-impact interventions (screen time, stress, exercise) while avoiding investment in low-impact factors.
 
